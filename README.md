@@ -1,6 +1,8 @@
 # correctness-of-brackets
 Java console application allows to check correctness of brackets.
 
+Program reacts to {},[] or () brackets.
+
 Class program contains main function. If u want to put strings on validation just put them in Args[]. 
 
 Class stack is my analog for stack constructure. It based on ArrayList, but it has limited size. Also u can choose data type for stack elements (Used generics to construct it). 
